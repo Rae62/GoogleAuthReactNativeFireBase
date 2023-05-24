@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "637525771906",
+    "project_id": "euro-27396",
+    "storage_bucket": "euro-27396.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637525771906:android:1e42070c48d5f8bfc6969b",
+        "android_client_info": {
+          "package_name": "com.rae62.EuroGoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637525771906-sf8k650i1edmrdq299tbfbbb8rtkcb12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rae62.EuroGoogle",
+            "certificate_hash": "d9acd7b65aefbfd899ce47cf77d93c5327b9f319"
+          }
+        },
+        {
+          "client_id": "637525771906-v180uh67t7i6s7ur2s281uuuussecsd8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rae62.EuroGoogle",
+            "certificate_hash": "50d3a6b5438e52e709f89243be939c525638291d"
+          }
+        },
+        {
+          "client_id": "637525771906-atmh7bk219e3di17jhc3vi6tld6jsdkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkOMA8LchrJT_Nt1Tm0knlSD4-QY0vYx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637525771906-atmh7bk219e3di17jhc3vi6tld6jsdkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
